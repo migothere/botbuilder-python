@@ -9,7 +9,7 @@ REQUIRES = [
     "msrest==0.6.10",
     "requests==2.23.0",
     "cryptography==2.8.0",
-    "PyJWT==1.5.3",
+    "PyJWT==2.4.0",
     "botbuilder-schema==4.10.0",
     "adal==1.2.1",
     "msal==1.2.0",
